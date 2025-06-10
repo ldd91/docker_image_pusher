@@ -9,4 +9,5 @@
 #node:20-alpine3.20
 #ollama/ollama:latest
 #fullaxx/ubuntu-desktop:20.04
-ubuntu:20.04
+#ubuntu:20.04
+nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
