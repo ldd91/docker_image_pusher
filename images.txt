@@ -12,4 +12,5 @@
 #ubuntu:20.04
 # nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
 #siutin/stable-diffusion-webui-docker:latest-cuda-12.1.1
-nvcr.io/nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
+#nvcr.io/nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
+apache/kafka:4.0.0
